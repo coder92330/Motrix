@@ -148,7 +148,7 @@ flatpak run net.agalwood.Motrix
 ### Clone Code
 
 ```bash
-git clone git@github.com:agalwood/Motrix.git
+git clone git@github.com:niang610/Motrix.git
 ```
 
 ### Install Dependencies
